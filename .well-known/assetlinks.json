@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.franciscosantin.go_board_game",
+    "package_name": "com.franciscosantin.universal_links_exp",
     "sha256_cert_fingerprints":
-    ["A1:23:1D:0E:18:1D:D2:46:6C:24:4F:E6:17:55:4F:B1:DD:0E:03:FE:FE:88:2A:D9:27:7A:C4:DA:71:1C:88:07"]
+    ["A3:9E:D5:45:5B:B9:32:67:3E:1D:9D:DD:E8:85:94:06:0E:01:39:72:49:F1:D9:31:BF:7A:F5:D5:7F:11:96:09"]
   }
 }]
